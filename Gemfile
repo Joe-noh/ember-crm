@@ -15,4 +15,5 @@ gem 'emblem-rails'
 
 gem 'spring',        group: :development
 
-
+gem 'ffaker'
+gem 'puma'
